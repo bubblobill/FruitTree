@@ -1,7 +1,7 @@
 # FruitTree
 A JTree that supports Drag and Drop, Cut, Copy, Paste, and Undo/Redo.
 
-Born out of the frustration of trying to find an example anywhere that implements all the fruit. This is a more-or-less bare-bones model to build on.
+Born out of the frustration of trying to find an example anywhere that implements all the fruit. This is a more-or-less bare-bones model to build on. Not terribly well written and hardly optimised, once I got it to work I stopped fiddling.
 
 Also includes:
 - a friendlier cell editor,
